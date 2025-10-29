@@ -1,7 +1,12 @@
-{
+games: [{
     "name": "Matching Game",
     "repo": "https://github.com/Alex-Copeland-5/alex-copeland-5",
     "app": "https://alex-copeland-5.github.io/alex-copeland-5/",
     "img": "https://alex-copeland-5.github.io/alex-copeland-5/images/GameSnippet.png"
-   
-  }
+},
+{
+    "name": "Fortune Clicker",
+    "repo": "https://github.com/EDMullins/FortuneClicker",
+    "app": "https://edmullins.github.io/FortuneClicker/",
+    "img": "https://edmullins.github.io/FortuneClicker/images/fortuneCookie.png"
+}]
